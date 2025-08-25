@@ -9,7 +9,6 @@ The dashboard provides insights into team performance, player statistics, and ma
 
 ## ⚙️ Tools Used
 - **Power BI** for data visualization
-- **CSV dataset** (IPL matches & players data)
 
 ## 🔍 Key Insights
 - Team performance comparison across seasons
@@ -19,7 +18,6 @@ The dashboard provides insights into team performance, player statistics, and ma
 
 ## 📂 Files in this Repository
 - `IPL_Analysis.pbix` → Power BI project file  
-- `ipl_data.csv` → Dataset used (optional, if you want to share it)  
 - `dashboard_preview.png` → Dashboard screenshot  
 
 ## 🚀 How to Use
